@@ -90,7 +90,7 @@ glutInit()
 glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE)
 glutInitWindowSize(500, 500)
 glutInitWindowPosition(0, 0)
-wind = glutCreateWindow(b"Random Points")
+wind = glutCreateWindow(b"Random Generated Points")
 
 glutDisplayFunc(showScreen)
 glutIdleFunc(animate)
