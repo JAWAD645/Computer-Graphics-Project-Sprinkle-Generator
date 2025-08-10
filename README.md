@@ -77,9 +77,9 @@ This project demonstrates:
 
 Example:
 
-```
-![Sprinkle Generator Screenshot](images/sprinkle_screenshot.png)
-```
+
+![Sprinkle Generator Screenshot](Sprinkle Generator_Demo.gif)
+
 
 
 
