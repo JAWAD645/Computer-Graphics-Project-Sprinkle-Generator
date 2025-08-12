@@ -73,14 +73,12 @@ This project demonstrates:
 
 ## 🖼 Image Preview
 
-*(Add your screenshots or GIFs here)*
+Start:
 
-Example:
+<img src="https://github.com/JAWAD645/Computer-Graphics-Project-Sprinkle-Generator/blob/d7b7299d10f41271b77f8643e32255d587341365/Start.png" alt="Game Screenshot" width="400">
 
-
-![Sprinkle Generator Screenshot](Sprinkle Generator_Demo.gif)
-
-
+Middle:
+<img src="https://github.com/JAWAD645/Computer-Graphics-Project-Sprinkle-Generator/blob/d7b7299d10f41271b77f8643e32255d587341365/Start.png" alt="Game Screenshot" width="400">
 
 
 ## 📥 Installation & Usage
