@@ -78,9 +78,12 @@ Start:
 <img src="https://github.com/JAWAD645/Computer-Graphics-Project-Sprinkle-Generator/blob/d7b7299d10f41271b77f8643e32255d587341365/Start.png" alt="Game Screenshot" width="400">
 
 Middle:
-<img src="https://github.com/JAWAD645/Computer-Graphics-Project-Sprinkle-Generator/blob/7a1041eeae1a0d5774ba345b4a85f25a03a0bab0/middle.png" alt="Game Screenshot" width="400">
 
 <img src="https://github.com/JAWAD645/Computer-Graphics-Project-Sprinkle-Generator/blob/7a1041eeae1a0d5774ba345b4a85f25a03a0bab0/middle.png" alt="Game Screenshot" width="400">
+
+Play the demo:
+
+<img src="https://github.com/JAWAD645/Computer-Graphics-Project-Sprinkle-Generator/blob/6cb510f21884d2ebad8e742f9459dec86ee1e5dc/Overview%20of%20this%20project%20.gif" alt="Game Screenshot" width="400">
 
 
 ## 📥 Installation & Usage
